@@ -1234,5 +1234,10 @@ window.quotes = [
     author: "Khayri R.R. Woulfe",
     addedBy: "Aaryash-Shakya",
   },
-  
+  {
+    quote: "Code never lies, comments sometimes do.",
+    category: "Programming",
+    author: "Ron Jeffries",
+    addedBy: "Sohil Maurya",
+  },  
 ];
